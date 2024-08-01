@@ -6,7 +6,7 @@
       <class name="com.tutorialsninja.qa.Runner_Files.Runner_TESTNG">
         <methods>
           <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="11"/>
+          <include name="runScenario" invocation-numbers="1"/>
           <include name="tearDownClass"/>
         </methods>
       </class> <!-- com.tutorialsninja.qa.Runner_Files.Runner_TESTNG -->

@@ -30,6 +30,10 @@ public class LoginPage {
 		emailTextBox.sendKeys(email);
 	}
 	
+	public boolean emailTextBoxIsDisplayed() {
+		return emailTextBox.isDisplayed();
+	}
+	
 	public void insertPassword(String password) {
 		passwordTextBox.sendKeys(password);
 	}
